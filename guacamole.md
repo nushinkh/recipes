@@ -10,3 +10,5 @@
 ##Instructions
 - cut the tomato in super smal pis
 - add avocados
+- put one avocado into a bowl
+>>>>>>> origin/main
